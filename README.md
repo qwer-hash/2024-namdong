@@ -14,6 +14,6 @@ year = 2024
 ```
 
 ```
-hello worl 
+hello world
 
 -취소선-
