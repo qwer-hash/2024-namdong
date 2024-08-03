@@ -8,4 +8,6 @@
 파이썬을 처음 배우는 중입니다.
 
 ```
-hello world*qqq
+hello worl
+
+-취소선-
