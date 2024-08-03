@@ -5,7 +5,7 @@
 ## 두번째 제목입니다
 ### 세번째 제목입니다
 
-파이썬을 처음 배우는 중입니다. :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
+파이썬을 **처음** 배우는 중입니다. :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 
 ```
 
