@@ -8,6 +8,6 @@
 파이썬을 처음 배우는 중입니다.
 
 ```
-hello worl:fire:
+hello worl :fire:
 
 -취소선-
