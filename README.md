@@ -13,7 +13,6 @@ year = 2024
 
 ```
 
-```
 hello world
 
 -취소선-
