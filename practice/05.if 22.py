@@ -17,7 +17,7 @@ elif size < 0:
     print("잘못된 점수입니다.")
 else:
     print("당신은 하반입니다")
-d
+
 
 
 
