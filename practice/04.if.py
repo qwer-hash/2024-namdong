@@ -37,3 +37,11 @@ print("a<=c", a<=c)
 print("==============================")
 print(a+b > c)
 print(a == 10)
+
+print("==============================")
+print(a+b) #더하기
+print(a-b) #빼기
+print(a*b) #곱하기
+print(a%b) #나누기
+print(a//b) #몫
+print(a**b) #승(제곱)
