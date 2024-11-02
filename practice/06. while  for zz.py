@@ -1,5 +1,5 @@
 #while 조건문 ~일때
-# for - list랑 짝궁
+# for - list랑 짝궁q
 
 num = -1
 
@@ -12,6 +12,7 @@ elif num > 60:
     print("B반")
 else :
     print("C반")
+
 
 
 
