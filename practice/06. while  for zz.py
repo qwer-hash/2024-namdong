@@ -1,5 +1,5 @@
 #while 조건문 ~일때
-# for - list랑 짝궁q
+# for - list랑 짝궁
 
 num = -1
 
